@@ -53,7 +53,7 @@ export default function Page() {
           alt="Glove80 and Go60 keyboards comparison"
           width={600}
           height={200}
-          className="object-cover flex-1 hidden md:block"
+          className="object-right object-contain flex-1 hidden md:block aspect-4/5 max-h-[500px]"
         />
       </section>
       <ImageFeaturedProducts />
